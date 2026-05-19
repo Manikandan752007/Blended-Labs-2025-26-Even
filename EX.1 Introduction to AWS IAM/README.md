@@ -1,6 +1,6 @@
 Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 #### **Name:** Manikandan M
-#### **Reg No** 212224040184
+#### **Reg No:** 212224040184
 
 
 ## Title
