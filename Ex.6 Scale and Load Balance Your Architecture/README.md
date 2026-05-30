@@ -66,12 +66,34 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ## Workflow (To be filled by Student)
 
-Describe step-by-step how you performed this experiment in your own words.
+1.Launch multiple servers.
+
+2.Deploy the application on each server.
+
+3.Create a load balancer.
+
+4.Add servers to the load balancer.
+
+5.Configure auto-scaling.
+
+6.Test load distribution.
+
 
 ---
 
 ## Output Screenshots 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5ff435d-461b-4e93-aa0d-206a7a104dee" />
+
+<img width="1269" height="556" alt="image" src="https://github.com/user-attachments/assets/506b5842-4241-4056-af57-2bd9a246d921" />
+
+<img width="1258" height="636" alt="image" src="https://github.com/user-attachments/assets/f3e4dff0-d84d-4e80-b0a4-221e98f28e4e" />
+
+<img width="1265" height="559" alt="image" src="https://github.com/user-attachments/assets/66c983dc-0c3b-4404-82b1-d205b7041990" />
+
+<img width="1266" height="561" alt="image" src="https://github.com/user-attachments/assets/3347f1e9-bd8d-4444-aa20-d05baf0c7ab1" />
+
+<img width="1267" height="556" alt="image" src="https://github.com/user-attachments/assets/fc96452e-9794-4fd0-bdaa-c60d73c84eb3" />
 
 ---
 
