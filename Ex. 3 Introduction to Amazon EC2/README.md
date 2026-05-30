@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**: Manikandan 
+* **Name**: Manikandan M
 * **Register Number**: 212224040184
 
 ---
